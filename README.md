@@ -72,3 +72,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 Facial landmark recognition allows you to detect a number of different points on your face that together make up your eyes, mouth, ears, nose and so on. From there you're able to apply overlays aka filters to get your snap! But there's so much more that it can be used for like emotion analysis and face tracking. 
 
 
+![Screen Recording 2024-09-20 at 1 16 25 PM](https://github.com/user-attachments/assets/8ff074c5-b421-4201-a619-110e59158693)
+
+
